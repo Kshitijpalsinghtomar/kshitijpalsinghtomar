@@ -1,7 +1,24 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>A few side projects that mix tech with stories and a little mystery — keeps things fun.<br><br>👯 I’m looking to collaborate on<br>Cool experiments, apps, or ideas that have a spark of creativity in them.<br><br>🤝 I’m looking for help with<br>Taking rough ideas and shaping them into something solid people actually enjoy using.<br><br>🌱 I’m currently learning<br>More about web development, AI, and how to build stuff that feels alive instead of just… code.<br><br>💬 Ask me about<br>Projects I’m building, random theories, or anything nerdy with a twist.<br><br>⚡ Fun fact<br>I hide tiny Easter eggs in most things I make — just to see who finds them.
+# Hey, I’m Kshitij 👋  
+> “I build things people don’t expect… and hide little stories inside the code.”
 
+### 🔭 Currently
+Working on small experiments that mix code, design, and a dash of mystery — web apps, AI toys, and anything that sparks curiosity.
 
+### 👯 Looking to collaborate on
+Fun projects that blur the line between tech and creativity. If it makes people smile or think, I’m in.
+
+### 🤝 Need a hand with
+Turning rough ideas into polished projects people actually enjoy.
+
+### 🌱 Learning
+Web dev stacks, Python tricks, and ways to make software feel alive.
+
+### 💬 Ask me about
+Side projects, random theories, or the tiny Easter eggs I leave in my work.
+
+### ⚡ Fun fact
+I hide puzzles inside the stuff I build — sometimes even I forget where.
+---
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitijpalsinghtomar@gmail.com) 
 
@@ -17,5 +34,14 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kshitijpalsinghtomar&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
+### 🌌 Little secret
+> There’s a hidden clue somewhere on this page.  
+> Or maybe it’s hiding *behind* 🤔.
+
+<!--
+VDJ4aGFXNXJZM1JwYjI0Z1pXNWtZWFJoY0hCc2FXTmhkR2x2Ymw5d1lYSjBMV05sY2pvZ2Rsb2NrZWRfdGhhdF9teV9taWRuaWdodF9zbmFja19pcy5jaGlja2Vu
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
