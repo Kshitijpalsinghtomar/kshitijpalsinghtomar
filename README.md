@@ -41,7 +41,5 @@ I hide puzzles inside the stuff I build — sometimes even I forget where.
 > Or maybe it’s hiding *behind* 🤔.
 
 <!--
-VDJ4aGFXNXJZM1JwYjI0Z1pXNWtZWFJoY0hCc2FXTmhkR2x2Ymw5d1lYSjBMV05sY2pvZ2Rsb2NrZWRfdGhhdF9teV9taWRuaWdodF9zbmFja19pcy5jaGlja2Vu
+aG1tLCBTbyBVIGZvdW5kIGl0LgpXZWxsIG15IHNlY3JldCBpcyBodHRwczovL21lZGlhLmdpcGh5LmNvbS9tZWRpYS92MS5ZMmxrUFRjNU1HSTNOakV4ZVhaaWVXRjROVzB6TUdjd1pIVnBaM0ZzTUdoeWJtVnhZekV4TVhZMGVYZGxiMjh4ZDNscmFpWmxjRDEyTVY5bmFXWnpYM05sWVhKamFDWmpkRDFuL0dUajllaGRMTkNKZEk0SDJ2US9naXBoeS5naWYK
 -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
