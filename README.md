@@ -8,6 +8,6 @@ Turning rough ideas into polished projects people actually enjoy.
 
 Web dev stacks, Python tricks, and ways to make software feel alive.
 
-GitHub: https://github.com/Kshitijpalsinghtomar
+[![kshitijpalsinghtomar's AI token usage](https://whoburnedmore.com/api/embeds/kshitijpalsinghtomar?style=activity&theme=dark&accent=ember&period=all)](https://whoburnedmore.com/u/kshitijpalsinghtomar?utm_source=github&utm_medium=profile&utm_campaign=usage-card)
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitijpalsinghtomar@gmail.com)
